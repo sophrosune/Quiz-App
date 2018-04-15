@@ -200,6 +200,7 @@ legend {
     align-items: left;
     padding: 5px 10px;
     word-wrap: break-word;
+    display: flex;
 }
 
 input[type=radio] {
